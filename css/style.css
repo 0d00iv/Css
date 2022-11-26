@@ -1,0 +1,125 @@
+*{
+        font-family: cursive;
+}
+
+.navbar{
+    background-color:#306b71;
+    padding: 10px;
+    margin-top: 0;
+    font-size: 17px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.navbar a{
+    margin-left:10px ;
+}
+body{
+    margin: 0;
+}
+.float-right{
+    float: right;
+
+}
+.btn{
+    padding: 3x,10px,5x,10px;
+    border-radius: 5%;
+}
+.btn-primary{
+    background-color: rgb(45, 172, 218);
+    padding: 4px;
+}
+.btn-warning{
+  background-color: rgb(246, 246, 16);
+  color: black;
+  padding: 4px;
+}
+body,html{
+    height: 100%;
+    margin: 0;
+}
+.mt-1px{
+    margin: 2px;
+    width: 1000px;
+    height: 1000px;
+}
+.bg{
+    margin-top: 0px;
+    padding: 0px;
+}
+.row{
+     display: flex;
+     padding-left: 15px;
+     padding-right: 15px;
+}
+.col-2{
+    width: 50%;
+}
+.col-3{
+    width: 33.33%;
+}
+.col-4{
+    width: 25%;
+}
+.mt-10px{
+    margin-top: 10px;
+}
+.card{
+    border: 1px solid rgb(202, 198, 198);
+    padding: 10px;
+    margin: 10px;
+}
+.text-center{
+    text-align: center;
+
+}
+.img-responsive{
+    width: 100%;
+}
+.img{
+    width: 100%;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.card{
+    text-align: center;
+}
+.card a{
+    color: cadetblue;
+}
+.card p{
+    color: rgb(107, 106, 106);
+    text-align: justify;
+}
+.text-primary{
+    color: rgb(46, 46, 190);
+}
+.text-justify{
+    text-align: justify;
+}
+.footer{
+    background-color: rgb(26, 96, 96);
+    padding: 3px;
+}
+.a-4{
+    padding: 25px;
+}
+.a-5{
+    padding: 30px;
+    color: white;
+    background-color: #2c4042;
+}
+.col-2{
+    width: 50%;
+}
+.p-1{
+    padding: 15px
+}
+.border{
+   border: 2px solid gray;
+   margin: 10px;
+}
